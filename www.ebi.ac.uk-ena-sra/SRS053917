@@ -1,0 +1,3 @@
+Study	Sample	Experiment	Run	Organism	Instrument Platform	Instrument Model	Library Name	Library Layout	Library Source	Library Selection	Run Read Count	Run Base Count	File Name	File Size	md5	Ftp
+SRP002163	SRS053917	SRX023408	SRR060042	human metagenome	ILLUMINA	Illumina Genome Analyzer II	700109395-PE-1	PAIRED	GENOMIC	RANDOM	58925865	11785173000	SRR060042_1.fastq.gz	4Gb	e70a6f22fb7db48dfe83a651bc506d50	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR060/SRR060042/SRR060042_1.fastq.gz
+SRP002163	SRS053917	SRX023408	SRR060042	human metagenome	ILLUMINA	Illumina Genome Analyzer II	700109395-PE-1	PAIRED	GENOMIC	RANDOM	58925865	11785173000	SRR060042_2.fastq.gz	4Gb	e2ceecfbef96e2a6a9abe1dd56982197	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR060/SRR060042/SRR060042_2.fastq.gz

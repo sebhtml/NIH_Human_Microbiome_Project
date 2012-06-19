@@ -1,0 +1,5 @@
+Study	Sample	Experiment	Run	Organism	Instrument Platform	Instrument Model	Library Name	Library Layout	Library Source	Library Selection	Run Read Count	Run Base Count	File Name	File Size	md5	Ftp
+SRP002163	SRS022609	SRX023547	SRR060352	human metagenome	ILLUMINA	Illumina Genome Analyzer II	Solexa-27736	PAIRED	GENOMIC	RANDOM			Not available	Not available	Not available	ftp:////
+SRP002163	SRS022609	SRX023548	SRR060353	human metagenome	ILLUMINA	Illumina Genome Analyzer II	Solexa-27736	PAIRED	GENOMIC	RANDOM			Not available	Not available	Not available	ftp:////
+SRP002395	SRS022609	SRX019692	SRR041777	human metagenome	LS454	454 GS FLX Titanium	454-4263	SINGLE	METAGENOMIC	PCR	9248	2445812	SRR041777.fastq.gz	1Mb	7b0d8195d61334a99cabf0ea1653597f	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR041/SRR041777/SRR041777.fastq.gz
+SRP002395	SRS022609	SRX019696	SRR041852	human metagenome	LS454	454 GS FLX Titanium	454-4263	SINGLE	METAGENOMIC	PCR	9885	2610780	SRR041852.fastq.gz	1Mb	8a7afd4f9e0d1578efead49e377cf900	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR041/SRR041852/SRR041852.fastq.gz

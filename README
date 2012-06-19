@@ -1,0 +1,17 @@
+This is a fetcher for obtaining the data from
+the NIH Human Microbiome Project.
+
+The data is downloaded from the European Bioinformatics Institute.
+
+Illumina data
+
+http://www.hmpdacc.org/HMASM/
+
+
+
+CreateFetcher.sh	Create tools to download data
+Start.sh		Begin the process of getting data
+
+
+
+Author: Sébastien Boisvert

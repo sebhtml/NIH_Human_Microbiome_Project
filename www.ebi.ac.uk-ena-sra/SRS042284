@@ -1,0 +1,4 @@
+Study	Sample	Experiment	Run	Organism	Instrument Platform	Instrument Model	Library Name	Library Layout	Library Source	Library Selection	Run Read Count	Run Base Count	File Name	File Size	md5	Ftp
+SRP002163	SRS042284	SRX025194	SRR063513	human metagenome	ILLUMINA	Illumina Genome Analyzer II	2857105475	PAIRED	GENOMIC	RANDOM			Not available	Not available	Not available	ftp:////
+SRP002163	SRS042284	SRX025194	SRR063523	human metagenome	ILLUMINA	Illumina Genome Analyzer II	2857105475	PAIRED	GENOMIC	RANDOM	33555843	6711168600	SRR063523_1.fastq.gz	2Gb	83e6d0ec9fd66a32b600fa1add17866a	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR063/SRR063523/SRR063523_1.fastq.gz
+SRP002163	SRS042284	SRX025194	SRR063523	human metagenome	ILLUMINA	Illumina Genome Analyzer II	2857105475	PAIRED	GENOMIC	RANDOM	33555843	6711168600	SRR063523_2.fastq.gz	2Gb	5ecc3cf36babf50646321df0cf809a66	ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR063/SRR063523/SRR063523_2.fastq.gz

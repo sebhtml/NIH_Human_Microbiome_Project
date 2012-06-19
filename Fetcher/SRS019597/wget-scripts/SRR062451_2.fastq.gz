@@ -1,0 +1,13 @@
+if test -f Fetcher/SRS019597/contents/SRR062451_2.fastq.gz 
+then
+	echo a > /dev/null
+else
+
+wget ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR062/SRR062451/SRR062451_2.fastq.gz -o Fetcher/SRS019597/wget-logs/SRR062451_2.fastq.gz
+
+if test $(md5sum -c Fetcher/SRS019597/checksums/SRR062451_2.fastq.gz|grep OK$|wc -l) = 1
+then
+	mv SRR062451_2.fastq.gz Fetcher/SRS019597/contents
+fi
+
+fi
